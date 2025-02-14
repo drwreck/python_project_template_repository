@@ -2,8 +2,6 @@ venv/
 
 .env
 
-*.log
-
 .idea/
 
 *.iml
